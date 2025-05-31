@@ -5,15 +5,11 @@
 Welcome to the official VaultOS-style Obsidian Plugin Template, powered by PtiCalin flair.  
 This repo is crafted for structured development, modular scaling, and joyful collaboration.
 
-<div align="center">
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status: WIP](https://img.shields.io/badge/status-in_progress-yellow.svg)](#)
+[![Status: WIP](https://img.shields.io/badge/status-in_progress-yellow.svg)]
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./.github/PULL_REQUEST_TEMPLATE.md)
 [![GitHub Discussions](https://img.shields.io/badge/💬-Discussions-blueviolet?logo=github)](https://github.com/your-username/vaultos-plugin-template/discussions)
 [![Sponsor PtiCalin](https://img.shields.io/badge/Sponsor-💖-f06292.svg?logo=githubsponsors)](https://github.com/sponsors/your-username)
-
-</div>
 
 ---
 
@@ -64,6 +60,7 @@ config/        → Static metadata and module configs
 We welcome contributions of all kinds!
 
 Use our templates to get started:
+
 - [🐛 Bug Reports](./.github/ISSUE_TEMPLATE/bug_report.md)
 - [🌟 Feature Requests](./.github/ISSUE_TEMPLATE/feature_request.md)
 - [📦 Pull Requests](./.github/PULL_REQUEST_TEMPLATE.md)
