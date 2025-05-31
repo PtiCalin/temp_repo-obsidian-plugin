@@ -82,3 +82,5 @@ If this template helped you get started faster or better, consider sponsoring he
 [**github.com/sponsors/your-username**](https://github.com/sponsors/your-username)
 
 ---
+
+Have fun building, and spend less time structuring
