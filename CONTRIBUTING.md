@@ -10,7 +10,7 @@ This repo is built on curiosity, creativity, and care — and *you* are part of 
 🪄 Whether you're a coder, documenter, designer, or dreamer — here are some great ways to help:
 
 - 📚 Improve documentation or fix typos  
-- 🐛 Report bugs (see our [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md))  
+- 🐛 Report bugs (see our [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.yml))  
 - 🌟 Suggest new features or enhancements  
 - 🧪 Write or improve tests  
 - 🔧 Refactor or optimize code  
@@ -50,7 +50,7 @@ git push origin feat/amazing-idea
 Once your changes are pushed:
 
 1. Go to GitHub and open a Pull Request
-2. Use the [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
+2. Use the [Pull Request Template](.github/pull_request_template.md)
 3. Reference related issues (e.g. `Closes #3`)
 4. Write clearly and kindly — we want to celebrate your work!
 

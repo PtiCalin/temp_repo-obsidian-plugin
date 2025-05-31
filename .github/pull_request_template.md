@@ -30,4 +30,4 @@ e.g., Closes #12, Addresses #34
 - [ ] I have reviewed my changes
 - [ ] I have tested the changes
 - [ ] The PR title follows the project's naming conventions
-- [ ] Related issues are linke
+- [ ] Related issues are linked
