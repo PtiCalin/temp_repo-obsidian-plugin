@@ -6,7 +6,7 @@ Welcome to the official VaultOS-style Obsidian Plugin Template, powered by PtiCa
 This repo is crafted for structured development, modular scaling, and joyful collaboration.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status: WIP](https://img.shields.io/badge/status-in_progress-yellow.svg)](WIP)
+[![Status: WIP](https://img.shields.io/badge/status-WIP-yellow.svg)](WIP)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./.github/PULL_REQUEST_TEMPLATE.md)
 [![GitHub Discussions](https://img.shields.io/badge/💬-Discussions-blueviolet?logo=github)](https://github.com/your-username/vaultos-plugin-template/discussions)
 [![Sponsor PtiCalin](https://img.shields.io/badge/Sponsor-💖-f06292.svg?logo=githubsponsors)](https://github.com/sponsors/your-username)
