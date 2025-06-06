@@ -1,7 +1,7 @@
 # 📝 Pull Request Summary
 
 ## 📌 What does this PR do?
-<!-- Brief description of the changes -->
+<!-- Brief description of the changes to the plugin template -->
 
 ## 🔍 Related Issues
 <!-- Reference any related issues: 
@@ -10,14 +10,14 @@ e.g., Closes #12, Addresses #34
 
 ## ✅ Type of Change
 <!-- Check all that apply -->
-- [ ] ✨ New content
+- [ ] ✨ New plugin module/content
 - [ ] 🛠 Refactor
 - [ ] 🐛 Bug fix
 - [ ] 🌟 Feature addition
 - [ ] 🧹 Cleanup
 - [ ] 🧪 Experiment / Test
 - [ ] 🧭 Documentation
-- [ ] 🎯 Goal-related update
+- [ ] 🎯 Template improvement
 
 ## 🧠 Description of Changes
 <!-- Detailed description of what was added/changed and why -->

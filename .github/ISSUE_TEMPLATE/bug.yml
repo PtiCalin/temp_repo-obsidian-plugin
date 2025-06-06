@@ -1,5 +1,5 @@
-name: 🪲 Bug Report (Vault Related)
-description: Report a bug or glitch inside the vault.
+name: 🪲 Bug Report (Plugin Related)
+description: Report a bug or glitch with this plugin template.
 title: 'Bug: {Issue Summary}'
 labels:
 - bug
@@ -16,7 +16,7 @@ body:
   id: where
   attributes:
     label: Where?
-    description: Page name, plugin, or workflow where the bug occurred.
+    description: File, module, or workflow where the bug occurred.
   validations:
     required: true
 - type: textarea
