@@ -16,7 +16,7 @@ This repo is crafted for structured development, modular scaling, and joyful col
 ## 🧰 Features
 
 - 🧠 Obsidian plugin scaffold in TypeScript
-- ⚙️ VaultOS-ready modular structure (`src/`, `ops/`, `config/`, `dist/`)
+- ✅ Follows the official Obsidian plugin folder structure (`src/`, `dist/`)
 - 📦 Rollup build system with `manifest.json`
 - 📁 Ready-to-use GitHub Actions and PR templates
 - 💬 Discussions and sponsor links for community-driven growth
@@ -48,9 +48,12 @@ After building, copy the contents of `/dist` into your Obsidian vault’s `.obsi
 ```plaintext
 src/           → TypeScript plugin source
 dist/          → Compiled output used by Obsidian
-ops/           → Plugin orchestration logic
-config/        → Static metadata and module configs
-.github/       → GitHub Actions, PR/issue templates
+.github/       → Community files (issues, PR templates, CI)
+manifest.json  → Plugin manifest
+package.json   → Build and dependency config
+rollup.config.js → Bundler setup
+tsconfig.json  → TypeScript options
+styles.css     → Optional styling
 ```
 
 ---

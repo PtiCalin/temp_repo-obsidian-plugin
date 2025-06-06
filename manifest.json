@@ -1,0 +1,10 @@
+{
+  "id": "temp-repo-obsidian-plugin",
+  "name": "Temp Repo Obsidian Plugin",
+  "version": "0.0.1",
+  "minAppVersion": "0.15.0",
+  "description": "Example plugin scaffold",
+  "author": "PtiCalin",
+  "authorUrl": "https://github.com/PtiCalin",
+  "isDesktopOnly": false
+}
