@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea or improvement for this Obsidian plugin
+about: Suggest an idea or improvement for this project
 labels: enhancement
 ---
 

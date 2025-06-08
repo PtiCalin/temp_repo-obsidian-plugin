@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve this Obsidian plugin
+about: Create a report to help us improve this project
 labels: bug
 ---
 
@@ -18,4 +18,4 @@ A clear and concise description of what you expected to happen.
 
 **Environment**
  - OS: [e.g. Windows 11]
- - Obsidian version: [e.g. 1.5.3]
+ - Application version: [e.g. 1.0.0]

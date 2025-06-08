@@ -1,9 +1,9 @@
 name: ✍️ New Content Entry
-description: Log a new module or snippet added to the plugin project.
+description: Log a new module or snippet added to the project.
 title: 'New: {Page or Template Name}'
 labels:
 - new content
-- plugin growth
+- project growth
 body:
 - type: textarea
   id: description

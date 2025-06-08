@@ -1,5 +1,5 @@
 name: 🌟 Feature Request
-description: Suggest a new feature or improvement for this Obsidian plugin.
+description: Suggest a new feature or improvement for this project.
 title: 'Feature: {Idea}'
 labels:
 - feature request
@@ -16,7 +16,7 @@ body:
   id: benefit
   attributes:
     label: Why would it be useful?
-    description: Explain why this would improve the plugin template.
+    description: Explain why this would improve the project.
 - type: textarea
   id: notes
   attributes:
