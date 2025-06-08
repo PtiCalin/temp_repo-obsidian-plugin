@@ -34,6 +34,15 @@ cd vaultos-plugin-template
 
 ### 🛠 Local Setup
 
+#### Quick Setup
+Run the provided script to install dependencies and build:
+
+```bash
+npm run setup
+```
+
+Internet access is needed the first time to download Node packages. If you're using the Codex environment, be sure to enable internet access so the script can fetch dependencies.
+
 ```bash
 npm install
 npm run build
