@@ -1,5 +1,5 @@
-name: 🪲 Bug Report (Plugin Related)
-description: Report a bug or glitch with this plugin template.
+name: 🪲 Bug Report (Obsidian Plugin)
+description: Report a bug or glitch with this Obsidian plugin template.
 title: 'Bug: {Issue Summary}'
 labels:
 - bug

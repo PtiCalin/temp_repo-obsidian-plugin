@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve the plugin
+about: Create a report to help us improve this Obsidian plugin
 labels: bug
 ---
 
