@@ -10,7 +10,7 @@ This repo is built on curiosity, creativity, and care — and *you* are part of 
 🪄 Whether you're a coder, documenter, designer, or dreamer — here are some great ways to help:
 
 - 📚 Improve documentation or fix typos  
-- 🐛 Report bugs (see our [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.yml))  
+- 🐛 Report bugs (see our [Bug Report Template](.github/ISSUE_TEMPLATE/bug.yml))
 - 🌟 Suggest new features or enhancements  
 - 🧪 Write or improve tests  
 - 🔧 Refactor or optimize code  
