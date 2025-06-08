@@ -73,8 +73,8 @@ We welcome contributions of all kinds!
 
 Use our templates to get started:
 
-- [🐛 Bug Reports](./.github/ISSUE_TEMPLATE/bug.yml)
-- [🌟 Feature Requests](./.github/ISSUE_TEMPLATE/feature-request.yml)
+- [🐛 Bug Reports](https://github.com/your-username/vaultos-plugin-template/issues/new?template=bug.yml)
+- [🌟 Feature Requests](https://github.com/your-username/vaultos-plugin-template/issues/new?template=feature-request.yml)
 - [📦 Pull Requests](./.github/pull_request_template.md)
 
 Read our [CONTRIBUTING.md](CONTRIBUTING.md) for more info, or start a conversation in [💬 GitHub Discussions](https://github.com/your-username/vaultos-plugin-template/discussions).
