@@ -15,9 +15,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📦 Install dependencies
-        run: | #List dependencies here
-          echo "Installing dependencies..."
-          # Example: pip install -r requirements.txt
-          # Replace with actual commands for your project
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm run setup
       
