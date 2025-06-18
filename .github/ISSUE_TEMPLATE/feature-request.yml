@@ -1,0 +1,24 @@
+name: 🌟 Feature Request
+description: Suggest a new feature or improvement for this project.
+title: 'Feature: {Idea}'
+labels:
+- feature request
+- enhancement
+body:
+- type: textarea
+  id: feature
+  attributes:
+    label: What is the feature?
+    description: Describe the new idea.
+  validations:
+    required: true
+- type: textarea
+  id: benefit
+  attributes:
+    label: Why would it be useful?
+    description: Explain why this would improve the project.
+- type: textarea
+  id: notes
+  attributes:
+    label: Optional sketches or examples
+    description: Any mockups, files, or examples.
