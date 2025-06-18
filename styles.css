@@ -1,1 +1,67 @@
-/* Sample plugin styles */
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+/* 🔌 VaultOS Plugin Base Styles
+   Style guidelines: Clean, readable, consistent spacing
+   Theme-compatible, non-intrusive by default
+*/
+
+:root {
+  --vaultos-accent: var(--text-accent);
+  --vaultos-bg: var(--background-secondary);
+  --vaultos-fg: var(--text-normal);
+  --vaultos-border: var(--background-modifier-border);
+}
+
+.vaultos-panel {
+  padding: 1rem;
+  background-color: var(--vaultos-bg);
+  color: var(--vaultos-fg);
+  border: 1px solid var(--vaultos-border);
+  border-radius: 8px;
+  box-shadow: var(--shadow-s);
+  margin-bottom: 1rem;
+}
+
+.vaultos-heading {
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: var(--vaultos-accent);
+  margin-bottom: 0.5rem;
+}
+
+.vaultos-button {
+  background-color: var(--vaultos-accent);
+  color: var(--background-primary);
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.vaultos-button:hover {
+  background-color: var(--text-accent-hover);
+}
+
+.vaultos-input {
+  width: 100%;
+  padding: 0.4rem;
+  border: 1px solid var(--vaultos-border);
+  border-radius: 4px;
+  background-color: var(--background-primary);
+  color: var(--vaultos-fg);
+}
+
+.vaultos-label {
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+  display: block;
+}
